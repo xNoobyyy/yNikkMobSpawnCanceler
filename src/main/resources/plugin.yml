@@ -1,0 +1,10 @@
+name: MobSpawnCanceler
+version: '${version}'
+main: de.ynikk.mobspawncanceler.mobspawncanceler.MobSpawnCanceler
+api-version: 1.18
+authors: [ Nooby ]
+description: MobSpawnCanceler for yNikk
+
+commands:
+  cancelmobspawns:
+    usage: /cancelmobspawns <Radius>
